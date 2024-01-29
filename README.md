@@ -1,6 +1,6 @@
 # rock_paper_scissors
 
-기본적인 가위바위보 게임 / 한국어
+기본적인 가위바위보 게임 / 한국어  / python
 
 
 
