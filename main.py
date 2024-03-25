@@ -91,7 +91,7 @@ while running:
             print("상대방: %s" % num_to_str_for_computer)
             print("이김\n\n")
 
-    answer = input("again:a or quit for any key exept a\n\n")
+    answer = input("again:a or quit for any key except a\n\n")
 
     if answer == "a":
         reset()
